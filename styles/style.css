@@ -78,6 +78,43 @@ new section------------*/
     width: 300px;
 }
 .player-info{
-   color: #6C6C6C;
+   color: #6c6c6c;
    width: 300px;
 }
+/* -----------
+footer ----------- */
+.last-area{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    flex-direction: column;
+    justify-content: center;
+    width: 483.87px;
+    height: 230px;
+    margin-left: 475px;
+    
+    
+}
+.logo img{
+    height: 110px;
+    width: 483px;
+    margin: 20px 0px;
+}
+.social{
+    width: 170px;
+    height: 32px;
+    margin-left: 157px;
+   
+}
+.social img{
+    width: 32px;
+    height: 32px;
+    margin-left: 5px;
+       
+}
+.last-title{
+    color: #000000;
+    font-size: 18px;
+    width: 236px;
+    height: 31px;
+    margin-left: 124px;
+} 
